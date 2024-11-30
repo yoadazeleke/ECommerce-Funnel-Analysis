@@ -12,18 +12,18 @@ This project analyzes customer behavior in an e-commerce sales funnel to identif
 
 ## Table of Contents
 
-1. [ASK](#ask)
-2. [PREPARE](#prepare)
-3. [PROCESS](#process)
-4. [ANALYZE](#analyze)
-5. [SHARE](#share)
-6. [ACT](#act)
+1. [Ask](#ask)
+2. [Prepare](#prepare)
+3. [Process](#process)
+4. [Analyze](#analyze)
+5. [Share](#share)
+6. [Act](#act)
 7. [Next Steps & Impact](#next-steps--impact)
-8. [ACKNOWLEDGMENTS](#acknowledgments)
+8. [Acknowledgments](#acknowledgments)
 
 ---
 
-## ASK
+## Ask
 
 The goal of this analysis is to answer the following key questions:
 
@@ -34,7 +34,7 @@ The goal of this analysis is to answer the following key questions:
 
 ---
 
-## PREPARE
+## Prepare
 
 ### Data Collection
 - The dataset used for this analysis, **Customer360 Insights**, was obtained from Kaggle and includes customer interaction data such as session times, purchases, and demographic information.
@@ -42,9 +42,11 @@ The goal of this analysis is to answer the following key questions:
 ### Data Cleaning
 - I cleaned the data by removing duplicates, handling missing values, and segmenting it into distinct funnel stages for easier analysis.
 
+[Access the Google Sheets (Original and Updated Data)](https://docs.google.com/spreadsheets/d/1Wxq-XJGktQeRInHruGaJCnPkGVrrM-ABrrQ-AzUAY5s/edit?usp=sharing)  
+
 ---
 
-## PROCESS
+## Process
 
 I performed **Exploratory Data Analysis (EDA)** using R and Tableau to identify key patterns and trends. Below is a breakdown of the stages:
 
@@ -58,7 +60,7 @@ I performed **Exploratory Data Analysis (EDA)** using R and Tableau to identify 
 
 ---
 
-## ANALYZE
+## Analyze
 
 ### Key Insights from EDA Visualizations
 
@@ -102,7 +104,7 @@ I performed **Exploratory Data Analysis (EDA)** using R and Tableau to identify 
 
 ---
 
-## SHARE
+## Share
 
 ### Key Findings:
 - **Product & Category Focus:** Prioritize marketing for **home appliances** and **toys**, which are the highest-performing categories.
@@ -114,7 +116,7 @@ I performed **Exploratory Data Analysis (EDA)** using R and Tableau to identify 
 [View the Tableau Dashboard](https://public.tableau.com/views/ecommercefunnelanalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 ---
 
-## ACT
+## Act
 
 ### Actionable Recommendations:
 
