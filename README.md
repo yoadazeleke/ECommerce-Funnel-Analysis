@@ -56,8 +56,7 @@ I performed **Exploratory Data Analysis (EDA)** using R and Tableau to identify 
 - **Order to Payment Conversion:** 100% of confirmed orders were paid for after checkout.
 
 **Visualization: Funnel Analysis**  
-![Funnel Analysis](https://github.com/user-attachments/assets/6980114c-431a-405f-9925-ed14246c707c)
-
+![Funnel Analysis](https://github.com/user-attachments/assets/11371225-afec-4843-a3d3-e58860bc8907)
 ---
 
 ## Analyze
@@ -110,7 +109,7 @@ I performed **Exploratory Data Analysis (EDA)** using R and Tableau to identify 
 - **Gender & Income Insights:** Tailor marketing campaigns based on **gender** and **income demographics**.
 - **Geographic Strategy:** Focus on **Canada** for region-specific marketing initiatives.
 
-![Dashboard](https://github.com/user-attachments/assets/53bc5106-1a89-4db2-bdc6-2919f6e23120)
+![Dashboard](https://github.com/user-attachments/assets/d576194c-a800-4dcb-90db-c456fed67d13)
 
 [View the Tableau Dashboard](https://public.tableau.com/views/ecommercefunnelanalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 ---
