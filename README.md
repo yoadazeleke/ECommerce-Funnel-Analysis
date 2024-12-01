@@ -101,7 +101,6 @@ I performed **Exploratory Data Analysis (EDA)** using R and Tableau to identify 
    - **Instagram Ads** perform the best, followed by **Google Ads** and **Facebook Ads**, suggesting an opportunity to **optimize ad spend**.
    ![category distibution](https://github.com/user-attachments/assets/65b54b5f-2006-459c-a020-7420ef9425cd)
 
-
 ---
 
 ## Share
